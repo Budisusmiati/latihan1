@@ -1,1 +1,4 @@
-#latihanpython1
+CARA MEMBUAT REPOSITORY LOCAL DAN REPOSITORY PADA GITHUB SERTA CARA MEMBUAT FILE README.md
+Yang kalian butuhkan :
+  1. Akun GitHub
+  2. Software
