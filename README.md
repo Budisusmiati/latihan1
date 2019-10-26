@@ -10,7 +10,7 @@ CARA MENDAFTAR AKUN GitHub
   3. Lakukan verifikasi pada email yang sudah kalian masukan untuk mendaftar.
   "Gambar"
   4. Setelah melakukan verifikasi pada email kalian, selanjutnya kalian akan dialihkan langsung ke laman GitHub untuk selanjutnya membuat new repository, kemudian masukan nama repository kalian dan klik "create repository".
-  "Gambar"
+  ![13](https://user-images.githubusercontent.com/57002773/67614205-0bda3f00-f7e3-11e9-8733-3013afcbd1d7.png)
   5. Maka seperti inilah tampilan New Repository.
   ![15](https://user-images.githubusercontent.com/57002773/67614206-11378980-f7e3-11e9-9cd4-ee07a48ccd57.png)
  
