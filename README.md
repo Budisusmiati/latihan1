@@ -32,7 +32,7 @@ CARA MENDAFTAR AKUN GitHub
    2. Lalu akan muncul tampilan sebagai berikut:
    "gambar"
    3. Lakukan konfigurasi user.name dan user.email seperti pada gambar.
-   "gambar"
+   ![Screenshot (50)](https://user-images.githubusercontent.com/57002773/67614226-49d76300-f7e3-11e9-8d35-dd6bb3aa5a38.png)
    4. Buatlah directori baru dengan menggunakan perintah "mkdir latihan1"
    "gambar"
    5. Jalankan perintah "git init", untuk membuat file kosong berformat ".git"
