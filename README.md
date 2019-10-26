@@ -12,7 +12,7 @@ CARA MENDAFTAR AKUN GitHub
   4. Setelah melakukan verifikasi pada email kalian, selanjutnya kalian akan dialihkan langsung ke laman GitHub untuk selanjutnya membuat new repository, kemudian masukan nama repository kalian dan klik "create repository".
   "Gambar"
   5. Maka seperti inilah tampilan New Repository.
-  "Gambar"
+  ![15](https://user-images.githubusercontent.com/57002773/67614206-11378980-f7e3-11e9-9cd4-ee07a48ccd57.png)
  
  CARA MENGINSTALL SOFTWARE GIT
   1. Untuk menginstall Git, sebelumnya kalian harus mendownload software di laman https://git-scm.com
