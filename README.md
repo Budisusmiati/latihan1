@@ -13,6 +13,7 @@ CARA MENDAFTAR AKUN GitHub
   "Gambar"
   5. Maka seperti inilah tampilan New Repository.
   "Gambar"
+ 
  CARA MENGINSTALL SOFTWARE GIT
   1. Untuk menginstall Git, sebelumnya kalian harus mendownload software di laman https://git-scm.com
   "Gambar"
@@ -22,7 +23,7 @@ CARA MENDAFTAR AKUN GitHub
   4. Ikuti langkah-langkahnya, dan kemudian klik install.
   "Gambar"
   5. Pastikan software telah terinstal secara penuh lalu pilih finish.
-  "gambar"
+  ![25](https://user-images.githubusercontent.com/57002773/67614213-28767700-f7e3-11e9-9fee-da972e033ff4.png)
   6. Pastikan program Git sudah dapat digunakan pada perangkat kalian dengan cara membuka command prompt lalu ketik "git --version"jika muncul berarti Git sudah dapat digunakan.
   ![27](https://user-images.githubusercontent.com/57002773/67614215-2e6c5800-f7e3-11e9-8352-09dcf5371e03.png)
   
