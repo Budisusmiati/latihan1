@@ -24,7 +24,7 @@ CARA MENDAFTAR AKUN GitHub
   5. Pastikan software telah terinstal secara penuh lalu pilih finish.
   "gambar"
   6. Pastikan program Git sudah dapat digunakan pada perangkat kalian dengan cara membuka command prompt lalu ketik "git --version"jika muncul berarti Git sudah dapat digunakan.
-  "Gambar"
+  ![27](https://user-images.githubusercontent.com/57002773/67614215-2e6c5800-f7e3-11e9-8352-09dcf5371e03.png)
   
   CARA MEMBUAT REPOSITORY LOCAL DAN FILE README.md
    1. Buatlah "new folder",lalu klik kanan pada folder tersebut dan pilih "Git Bash Here"
