@@ -40,11 +40,11 @@ CARA MENDAFTAR AKUN GitHub
    ![39](https://user-images.githubusercontent.com/57002773/67614554-624a7c00-f7e9-11e9-8eba-fb23b62eff9e.png)
    5. Buatlah file README.md, dengan cara menjalankan perintah echo "#latihanpython1">>README.md"
    ![41](https://user-images.githubusercontent.com/57002773/67614555-624a7c00-f7e9-11e9-9b38-e401eeabbcbf.png)
-   6. Intuk membuat file gunakan perintah ls -l
+   6. untuk membuat file gunakan perintah ls -l
    ![43](https://user-images.githubusercontent.com/57002773/67614556-624a7c00-f7e9-11e9-89a0-cc5fce8cb4c1.png)
    7. Gunakan perintah "git add README.md", untuk memasukan file README.md ke repository local
    ![45](https://user-images.githubusercontent.com/57002773/67614557-62e31280-f7e9-11e9-9676-3e2343c5f0e6.png)
-   8. Gunakan perintah "git commit -m" untuk menyimpan perubahn kedalam database repository
+   8. Gunakan perintah "git commit -m" untuk menyimpan perubahan kedalam database repository
    ![47](https://user-images.githubusercontent.com/57002773/67614558-64143f80-f7e9-11e9-880c-7dfe8ff4c69a.png)
    9. Masuk ke laman GitHub yang sudah kalian buat tadi, kemudian salin url, gunakan perintah "git remote add origin [url]
    ![49](https://user-images.githubusercontent.com/57002773/67614561-64acd600-f7e9-11e9-88c4-134ce308c705.png)
