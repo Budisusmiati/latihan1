@@ -31,24 +31,23 @@ CARA MENDAFTAR AKUN GitHub
    1. Buatlah "new folder",lalu klik kanan pada folder tersebut dan pilih "Git Bash Here"
    ![31](https://user-images.githubusercontent.com/57002773/67614222-3b894700-f7e3-11e9-9e8b-0116208bff64.png)
    ![31 (2)](https://user-images.githubusercontent.com/57002773/67614219-362bfc80-f7e3-11e9-95fb-a24c98b307a4.png)
-   2. Lalu akan muncul tampilan sebagai berikut:
-   "gambar"
-   3. Lakukan konfigurasi user.name dan user.email seperti pada gambar.
+   2. Lakukan konfigurasi user.name dan user.email seperti pada gambar.
    ![Screenshot (50)](https://user-images.githubusercontent.com/57002773/67614226-49d76300-f7e3-11e9-8d35-dd6bb3aa5a38.png)
-   4. Buatlah directori baru dengan menggunakan perintah "mkdir latihan1"
+   3. Buatlah directori baru dengan menggunakan perintah "mkdir latihan1"
    "gambar"
-   5. Jalankan perintah "git init", untuk membuat file kosong berformat ".git"
+   4. Jalankan perintah "git init", untuk membuat file kosong berformat ".git"
    "gambar"
-   6. Buatlah file README.md, dengan cara menjalankan perintah echo "#latihanpython1">>README.md"
+   5. Buatlah file README.md, dengan cara menjalankan perintah echo "#latihanpython1">>README.md"
    "gambar"
-   7. Intuk membuat file gunakan perintah ls -l
+   6. Intuk membuat file gunakan perintah ls -l
    "gambar"
-   8. Gunakan perintah "git add README.md", untuk memasukan file README.md ke repository local
+   7. Gunakan perintah "git add README.md", untuk memasukan file README.md ke repository local
    "gambar"
-   9. Gunakan perintah "git commit -m" untuk menyimpan perubahn kedalam database repository
+   8. Gunakan perintah "git commit -m" untuk menyimpan perubahn kedalam database repository
    "gambar"
-   10. Masuk ke laman GitHub yang sudah kalian buat tadi, kemudian salin url, gunakan perintah "git remote add origin [url]
+   9. Masuk ke laman GitHub yang sudah kalian buat tadi, kemudian salin url, gunakan perintah "git remote add origin [url]
    "gambar"
-   11.Kirim perubahan local repository ke Gihub dengan menggunakan perintah "git push -origin master"
+   10.Kirim perubahan local repository ke Github dengan menggunakan perintah "git push -origin master",kemudian log on ke akun 
+   GitHub yang sudah kalian buat tadi
    "gambar"
    
