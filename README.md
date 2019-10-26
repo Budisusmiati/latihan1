@@ -1,4 +1,4 @@
-PROSES DALAM MEMBUAT REPOSITORY LOCAL DAN REPOSITORY PADA GITHUB SERTA CARA MEMBUAT FILE README.md
+CARA PENGGUNAAN GIT & CARA MEMBUAT REPOSITORY LOCAL SERTA CARA MEMBUAT FILE README.md
 Untuk hal ini yang kalian butuhkan adalah :
   1. Akun GitHub
   2. Software atau Program Git
@@ -19,7 +19,34 @@ CARA MENDAFTAR AKUN GitHub
   2. Pilih download dan sesuaikan dengan Operating System pada Computer atau Laptop kalian.
   "Gambar"
   3. Kemudian install software yang telah kalian download.
-  "Gambar"
   4. Ikuti langkah-langkahnya, dan kemudian klik install.
   "Gambar"
-  5.
+  5. Pastikan software telah terinstal secara penuh lalu pilih finish.
+  "gambar"
+  6. Pastikan program Git sudah dapat digunakan pada perangkat kalian dengan cara membuka command prompt lalu ketik "git --version"jika muncul berarti Git sudah dapat digunakan.
+  "Gambar"
+  
+  CARA MEMBUAT REPOSITORY LOCAL DAN FILE README.md
+   1. Buatlah "new folder",lalu klik kanan pada folder tersebut dan pilih "Git Bash Here"
+   "gambar"
+   2. Lalu akan muncul tampilan sebagai berikut:
+   "gambar"
+   3. Lakukan konfigurasi user.name dan user.email seperti pada gambar.
+   "gambar"
+   4. Buatlah directori baru dengan menggunakan perintah "mkdir latihan1"
+   "gambar"
+   5. Jalankan perintah "git init", untuk membuat file kosong berformat ".git"
+   "gambar"
+   6. Buatlah file README.md, dengan cara menjalankan perintah echo "#latihanpython1">>README.md"
+   "gambar"
+   7. Intuk membuat file gunakan perintah ls -l
+   "gambar"
+   8. Gunakan perintah "git add README.md", untuk memasukan file README.md ke repository local
+   "gambar"
+   9. Gunakan perintah "git commit -m" untuk menyimpan perubahn kedalam database repository
+   "gambar"
+   10. Masuk ke laman GitHub yang sudah kalian buat tadi, kemudian salin url, gunakan perintah "git remote add origin [url]
+   "gambar"
+   11.Kirim perubahan local repository ke Gihub dengan menggunakan perintah "git push -origin master"
+   "gambar"
+   
