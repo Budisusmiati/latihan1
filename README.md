@@ -41,7 +41,7 @@ CARA MENDAFTAR AKUN GitHub
    ![31](https://user-images.githubusercontent.com/57002773/67614222-3b894700-f7e3-11e9-9e8b-0116208bff64.png)
    ![31 (2)](https://user-images.githubusercontent.com/57002773/67614219-362bfc80-f7e3-11e9-95fb-a24c98b307a4.png)
    
-   2. Lakukan konfigurasi user.name dan user.email seperti pada gambar.
+   2. Lakukan konfigurasi user.name dan user.email seperti pada gambar
    ![Screenshot (50)](https://user-images.githubusercontent.com/57002773/67614226-49d76300-f7e3-11e9-8d35-dd6bb3aa5a38.png)
    
    3. Buatlah directori baru dengan menggunakan perintah "mkdir latihan1"
@@ -66,8 +66,7 @@ CARA MENDAFTAR AKUN GitHub
    ![49](https://user-images.githubusercontent.com/57002773/67614561-64acd600-f7e9-11e9-88c4-134ce308c705.png)
    ![49 (2)](https://user-images.githubusercontent.com/57002773/67614560-64143f80-f7e9-11e9-97b7-8575f3f3dca3.png)
    
-   10.Kirim perubahan local repository ke Github dengan menggunakan perintah "git push -origin master",kemudian log on ke akun 
-   GitHub yang sudah kalian buat tadi
+   10.Kirim perubahan local repository ke Github dengan menggunakan perintah "git push -origin master", lalu akan langsung muncul pada    tampilan untuk log on ke akun  GitHub yang sudah kalian buat tadi
    ![51](https://user-images.githubusercontent.com/57002773/67614566-65de0300-f7e9-11e9-806d-a514228739a5.png)
    ![51 (2)](https://user-images.githubusercontent.com/57002773/67614563-65456c80-f7e9-11e9-8955-bde75ca06689.png)
    
