@@ -21,7 +21,7 @@ CARA MENDAFTAR AKUN GitHub
   "Gambar"
   3. Kemudian install software yang telah kalian download.
   4. Ikuti langkah-langkahnya, dan kemudian klik install.
-  "Gambar"
+  ![23](https://user-images.githubusercontent.com/57002773/67614211-23b1c300-f7e3-11e9-9b0c-e89e31691916.png)
   5. Pastikan software telah terinstal secara penuh lalu pilih finish.
   ![25](https://user-images.githubusercontent.com/57002773/67614213-28767700-f7e3-11e9-9fee-da972e033ff4.png)
   6. Pastikan program Git sudah dapat digunakan pada perangkat kalian dengan cara membuka command prompt lalu ketik "git --version"jika muncul berarti Git sudah dapat digunakan.
