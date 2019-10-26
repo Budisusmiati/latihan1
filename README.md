@@ -34,7 +34,7 @@ CARA MENDAFTAR AKUN GitHub
    2. Lakukan konfigurasi user.name dan user.email seperti pada gambar.
    ![Screenshot (50)](https://user-images.githubusercontent.com/57002773/67614226-49d76300-f7e3-11e9-8d35-dd6bb3aa5a38.png)
    3. Buatlah directori baru dengan menggunakan perintah "mkdir latihan1"
-   "gambar"
+   ![37](https://user-images.githubusercontent.com/57002773/67614553-61b1e580-f7e9-11e9-95fd-e3a38281fdad.png)
    4. Jalankan perintah "git init", untuk membuat file kosong berformat ".git"
    "gambar"
    5. Buatlah file README.md, dengan cara menjalankan perintah echo "#latihanpython1">>README.md"
