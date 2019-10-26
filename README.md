@@ -29,6 +29,7 @@ CARA MENDAFTAR AKUN GitHub
   CARA MEMBUAT REPOSITORY LOCAL DAN FILE README.md
    1. Buatlah "new folder",lalu klik kanan pada folder tersebut dan pilih "Git Bash Here"
    ![31](https://user-images.githubusercontent.com/57002773/67614222-3b894700-f7e3-11e9-9e8b-0116208bff64.png)
+   ![31 (2)](https://user-images.githubusercontent.com/57002773/67614219-362bfc80-f7e3-11e9-95fb-a24c98b307a4.png)
    2. Lalu akan muncul tampilan sebagai berikut:
    "gambar"
    3. Lakukan konfigurasi user.name dan user.email seperti pada gambar.
