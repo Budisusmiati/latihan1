@@ -16,7 +16,7 @@ CARA MENDAFTAR AKUN GitHub
  
  CARA MENGINSTALL SOFTWARE GIT
   1. Untuk menginstall Git, sebelumnya kalian harus mendownload software di laman https://git-scm.com
-  "Gambar"
+  ![17](https://user-images.githubusercontent.com/57002773/67614208-185e9780-f7e3-11e9-8f1e-46eb808de836.png)
   2. Pilih download dan sesuaikan dengan Operating System pada Computer atau Laptop kalian.
   ![20](https://user-images.githubusercontent.com/57002773/67614210-1eed0f00-f7e3-11e9-9f5f-bcbc225047c1.png)
   3. Kemudian install software yang telah kalian download.
